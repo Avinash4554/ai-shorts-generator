@@ -28,5 +28,5 @@ function generate() {
   document.getElementById("output").value = output;
 
   // Open CapCut editor
-  window.open("https://www.capcut.com/editor", "_blank");
+  window.open("https://www.adobe.com/express/create/video", "_blank");
 }
